@@ -1,0 +1,51 @@
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\bin\Debug\MarketOtomasyon.exe.config
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\bin\Debug\MarketOtomasyon.exe
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\bin\Debug\MarketOtomasyon.pdb
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csproj.AssemblyReference.cache
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Anasayfa.resources
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.aramayap.resources
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Form1.resources
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Kategori.resources
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.kullaniciekle.resources
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Properties.Resources.resources
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunekle.resources
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunstokduzenle.resources
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunstokkayit.resources
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunstoksil.resources
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunturu.resources
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csproj.GenerateResource.cache
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.exe
+C:\Users\dogus\Desktop\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.pdb
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csproj.AssemblyReference.cache
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Anasayfa.resources
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.aramayap.resources
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Form1.resources
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Kategori.resources
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.kullaniciekle.resources
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Properties.Resources.resources
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunekle.resources
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunstokduzenle.resources
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunstokkayit.resources
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunstoksil.resources
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunturu.resources
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csproj.GenerateResource.cache
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.exe
+C:\Users\dogus\Desktop\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.pdb
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csproj.AssemblyReference.cache
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Anasayfa.resources
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.aramayap.resources
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Form1.resources
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Kategori.resources
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.kullaniciekle.resources
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.Properties.Resources.resources
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunekle.resources
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunstokduzenle.resources
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunstokkayit.resources
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunstoksil.resources
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.urunturu.resources
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csproj.GenerateResource.cache
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.exe
+C:\Users\dogus\Desktop\Görsel Proglama Proje\MarketOtomasyonk\MarketOtomasyon\MarketOtomasyon\obj\Debug\MarketOtomasyon.pdb
